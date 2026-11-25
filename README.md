@@ -1,7 +1,7 @@
 # Smart Prosthetic Interfaces — Conductive Polymer Composites
 
 **نام کوتاه پروژه:** Smart Prosthetic Materials  
-**نام پیشنهادی مخزن:** `smart-prosthetic-materials`
+**مخزن:** `Mahdi-Puki/Smart-Prosthetic-Materials`
 
 پروژه کارشناسی مهندسی ساخت و تولید درباره مواد پلیمری رسانا برای حسگرهای نرم فشار و کرنش در رابط پروتز و بریس.
 
@@ -27,6 +27,8 @@
 | [data](data/README.md) | ساختار داده و قالب استخراج از مقاله |
 | [experiments](experiments/README.md) | برنامه‌ریزی فاز تجربی آینده |
 | [CHANGELOG.md](CHANGELOG.md) | پیشرفت‌های پژوهشی و وضعیت خروجی‌ها |
+
+نقشه راه شخصی مهدی: [برنامه تا ۶ و ۳۰ آذر](docs/roadmap.md).
 
 مسیر فعال مطالعه: [خواص، پراکندگی و هزینه ساخت](docs/study-plan.md).
 
