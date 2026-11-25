@@ -1,4 +1,7 @@
-# Smart Prosthetic Interfaces
+# Smart Prosthetic Interfaces — Conductive Polymer Composites
+
+**نام کوتاه پروژه:** Smart Prosthetic Materials  
+**نام پیشنهادی مخزن:** `smart-prosthetic-materials`
 
 پروژه کارشناسی مهندسی ساخت و تولید درباره مواد پلیمری رسانا برای حسگرهای نرم فشار و کرنش در رابط پروتز و بریس.
 
